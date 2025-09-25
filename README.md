@@ -52,6 +52,20 @@ http://localhost:3000/subtracao/10/5
 
 Resultado: Resultado da subtração: 5
 
+➗ Divisão:
+
+http://localhost:3000/divisao/10/5
+
+
+Resultado da divisão: 2
+
+✖️ Multiplicação:
+
+http://localhost:3000/multiplicacao/10/5
+
+
+Resultado da multiplicação: 50
+
 📝 Autor
 
 > Projeto desenvolvido por **Jonnas Pedro**, 2º ano B.
