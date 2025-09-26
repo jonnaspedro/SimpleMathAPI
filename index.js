@@ -1,5 +1,3 @@
-//Jonnas Pedro aluno do 2 Ano B
-
 import express from "express";
 
 const app = express()
@@ -59,3 +57,4 @@ app.get("/divisao/:a/:b", (req, res) => {
 app.listen(3000, () => {
     console.log("Servidor rodando em: http://localhost:3000/adicao/10/5");
 });
+
